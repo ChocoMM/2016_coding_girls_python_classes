@@ -69,8 +69,8 @@ target/
 # IPython Notebook
 .ipynb_checkpoints
 
-# pyenv
-.python-version
+# pyenv checked in for python version consistency
+# .python-version
 
 # celery beat schedule file
 celerybeat-schedule
